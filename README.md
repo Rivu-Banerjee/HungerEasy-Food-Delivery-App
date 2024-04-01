@@ -1,1 +1,1 @@
-# CravingCohort-Food-Delivery-App
+# Craving Cohort Food Delivery App
