@@ -1,8 +1,6 @@
 # Craving Cohort Food Delivery App
-<<<<<<< HEAD
+
 # React Web-Application
-=======
->>>>>>> 3255cb564cc1641c33fa46fc4a897c9ad6218d0d
 
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
