@@ -1,1 +1,1 @@
-# HungerEasy-Food-Delivery-App
+# CravingCohort-Food-Delivery-App
